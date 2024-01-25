@@ -1,2 +1,2 @@
 # FirebaseChatHelper
-This is basic firebase chat helper class
+This is basic firebase chat helper class from develop
